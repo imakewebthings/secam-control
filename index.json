@@ -1,3 +1,4 @@
 {
-  "COMMAND": "ON"
+  "COMMAND": "ON",
+  "Kick": true
 }
